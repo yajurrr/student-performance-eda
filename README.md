@@ -1,6 +1,6 @@
 # Student Academic Performance: Exploratory Data Analysis & Dashboard 🎓
 
-🟢 **[https://yajurrr.github.io/student-performance-eda/]()**  
+🟢 **[https://yajurrr.github.io/student-performance-eda/]**  
 
 **Author:** Yajurved Salvi  
 
