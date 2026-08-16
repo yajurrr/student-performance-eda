@@ -26,13 +26,3 @@ Rather than assuming direct cause-and-effect, this Exploratory Data Analysis (ED
 * `Student_Performance_EDA.ipynb`: Jupyter Notebook containing the full data cleaning, preprocessing, and exploratory visual analysis.
 * `Beyond_the_Books_Presentation.pdf`: The final 16-slide executive presentation delivered to stakeholders.
 * `combined_student_data.csv`: The cleaned dataset used for analysis.
-
-## 💻 How to Use This Project
-
-**To view the dashboard:**
-Simply click the live GitHub Pages link at the top of this README, or download `index.html` and open it in any web browser. The dashboard is fully functional offline.
-
-**To run the analysis locally:**
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/student-performance-eda.git](https://github.com/yourusername/student-performance-eda.git)
